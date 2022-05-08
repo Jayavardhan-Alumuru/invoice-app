@@ -1,4 +1,4 @@
-# invoice-app2
+# invoice-app
 
 ## Project setup
 ```
